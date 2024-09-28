@@ -15,5 +15,5 @@ Technologies Used:
  How to use:
  -step1: Clone the repo.
  -step2: open the HTML file in live server.
-         file path:
+         file path: src/weather app/index.html
 
