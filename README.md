@@ -12,3 +12,8 @@ Technologies Used:
  -JavaScript (Fetch API)
  -Weather API (OpenWeatherMap)
 
+ How to use:
+ -step1: Clone the repo.
+ -step2: open the HTML file in live server.
+         file path:
+
